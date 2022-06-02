@@ -1,2 +1,2 @@
 # netflix-karar-destek-sistemi
- 
+ Üyelerden alınan verileri grafik özetlerle anlamlı hale getirerek yöneticinin Netflix platformu için daha etkili kararlar verebilmesini sağlayacak bir karar destek sistemi oluşturmak.Elde edilen grafikler ve veriler sayesinde netflix arge yönetimine yeni dizi ve film yayınlarken, yayınlanan dizileri trend olup olmadığını araştırırken, türe göre izleyicinin cinsiyet verilerini kullanarak üyeye göre dizi ve film tavsiyesinde bulunurken ve üyeye özel teklifler verirken karar vericiye destek sağlayacak bir sistem.
